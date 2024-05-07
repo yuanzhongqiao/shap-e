@@ -10,16 +10,14 @@
     <tbody>
         <tr>
             <td align="center">
-                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/a_chair_that_looks_like_an_avocado/2.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/a_chair_that_looks_like_an_avocado/2.gif" alt="一把看起来像鳄梨的椅子" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-    </animated-image>
+                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/a_chair_that_looks_like_an_avocado/2.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/a_chair_that_looks_like_an_avocado/2.gif" alt="一把看起来像鳄梨的椅子" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
             </td>
             <td align="center">
-                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/an_airplane_that_looks_like_a_banana/3.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/an_airplane_that_looks_like_a_banana/3.gif" alt="一架看起来像香蕉的飞机" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-   </animated-image>
+                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/an_airplane_that_looks_like_a_banana/3.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/an_airplane_that_looks_like_a_banana/3.gif" alt="一架看起来像香蕉的飞机" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
             </td>
             <td align="center">
-                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/a_spaceship/0.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/a_spaceship/0.gif" alt="一艘宇宙飞船" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      </animated-image>
+                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/a_spaceship/0.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/a_spaceship/0.gif" alt="一艘宇宙飞船" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
+     
             </td>
         </tr>
         <tr>
@@ -29,10 +27,7 @@
         </tr>
         <tr>
             <td align="center">
-                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/a_birthday_cupcake/3.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/a_birthday_cupcake/3.gif" alt="生日纸杯蛋糕" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-     
-          
-       </animated-image>
+                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/a_birthday_cupcake/3.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/a_birthday_cupcake/3.gif" alt="生日纸杯蛋糕" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
             </td>
             <td align="center">
                 <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/a_chair_that_looks_like_a_tree/2.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/a_chair_that_looks_like_a_tree/2.gif" alt="一把看起来像树的椅子" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
