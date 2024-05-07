@@ -5,7 +5,7 @@
 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="#samples"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">示例</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，了解我们的文本条件模型可以生成的示例。</font></font></li>
 </ul>
 <div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">样品</font></font></h1><a id="user-content-samples" class="anchor" aria-label="永久链接：样本" href="#samples"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以下是我们的文本条件模型中的一些突出显示的示例。有关选定提示的随机样本，请参阅</font></font><a href="/openai/shap-e/blob/main/samples.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">samples.md</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以下是我们的文本条件模型中的一些突出显示的示例。有关选定提示的随机样本，请参阅</font></font><a href="https://github.com/openai/shap-e/blob/main/samples.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">samples.md</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
 <table>
     <tbody>
         <tr>
@@ -34,7 +34,7 @@
     
             </td>
             <td align="center">
-                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="/openai/shap-e/blob/main/samples/a_green_boot/3.gif" data-target="animated-image.originalLink"><img src="/openai/shap-e/raw/main/samples/a_green_boot/3.gif" alt="绿色靴子" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="/openai/shap-e/blob/main/samples/a_green_boot/3.gif" data-target="animated-image.originalLink"><img src="/openai/shap-e/raw/main/samples/a_green_boot/3.gif" alt="绿色靴子" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
       
           
      
@@ -47,16 +47,16 @@
         </tr>
         <tr>
             <td align="center">
-                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/a_penguin/1.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/a_penguin/1.gif" alt="一只企鹅" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/a_penguin/1.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/a_penguin/1.gif" alt="一只企鹅" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
     
           
             </td>
             <td align="center">
-                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/ube_ice_cream_cone/3.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/ube_ice_cream_cone/3.gif" alt="宇部冰淇淋甜筒" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/ube_ice_cream_cone/3.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/ube_ice_cream_cone/3.gif" alt="宇部冰淇淋甜筒" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
      
             </td>
             <td align="center">
-                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/a_bowl_of_vegetables/2.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/a_bowl_of_vegetables/2.gif" alt="一碗蔬菜" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/a_bowl_of_vegetables/2.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/a_bowl_of_vegetables/2.gif" alt="一碗蔬菜" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
        
             </td>
         </tr>
