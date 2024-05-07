@@ -56,7 +56,7 @@
      
             </td>
             <td align="center">
-                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="/openai/shap-e/blob/main/samples/a_bowl_of_vegetables/2.gif" data-target="animated-image.originalLink"><img src="/openai/shap-e/raw/main/samples/a_bowl_of_vegetables/2.gif" alt="一碗蔬菜" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/a_bowl_of_vegetables/2.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/a_bowl_of_vegetables/2.gif" alt="一碗蔬菜" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
        
             </td>
         </tr>
