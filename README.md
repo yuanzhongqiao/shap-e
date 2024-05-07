@@ -8,58 +8,8 @@
 <p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以下是我们的文本条件模型中的一些突出显示的示例。有关选定提示的随机样本，请参阅</font></font><a href="https://github.com/openai/shap-e/blob/main/samples.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">samples.md</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
 <table>
     <tbody>
-        <tr>
-            <td align="center">
-                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/a_chair_that_looks_like_an_avocado/2.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/a_chair_that_looks_like_an_avocado/2.gif" alt="一把看起来像鳄梨的椅子" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
-            </td>
-            <td align="center">
-                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/an_airplane_that_looks_like_a_banana/3.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/an_airplane_that_looks_like_a_banana/3.gif" alt="一架看起来像香蕉的飞机" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
-            </td>
-            <td align="center">
-                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/a_spaceship/0.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/a_spaceship/0.gif" alt="一艘宇宙飞船" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
-     
-            </td>
-        </tr>
-        <tr>
-            <td align="center"><font style="vertical-align: inherit;"></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一把看起来像鳄梨的</font><font style="vertical-align: inherit;">椅子</font></font></td>
-            <td align="center"><font style="vertical-align: inherit;"></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一架看起来像香蕉的</font><font style="vertical-align: inherit;">飞机</font></font></td>
-            <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一艘宇宙飞船</font></font></td>
-        </tr>
-        <tr>
-            <td align="center">
-                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/a_birthday_cupcake/3.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/a_birthday_cupcake/3.gif" alt="生日纸杯蛋糕" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"> 
-            </td>
-            <td align="center">
-                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/a_chair_that_looks_like_a_tree/2.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/a_chair_that_looks_like_a_tree/2.gif" alt="一把看起来像树的椅子" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-    
-            </td>
-            <td align="center">
-                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="/openai/shap-e/blob/main/samples/a_green_boot/3.gif" data-target="animated-image.originalLink"><img src="/openai/shap-e/raw/main/samples/a_green_boot/3.gif" alt="绿色靴子" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
       
-          
-     
-            </td>
-        </tr>
-        <tr>
-            <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生日纸杯蛋糕</font></font></td>
-            <td align="center"><font style="vertical-align: inherit;"></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一把看起来像树的</font><font style="vertical-align: inherit;">椅子</font></font></td>
-            <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">绿色靴子</font></font></td>
-        </tr>
-        <tr>
-            <td align="center">
-                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/a_penguin/1.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/a_penguin/1.gif" alt="一只企鹅" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-    
-          
-            </td>
-            <td align="center">
-                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/ube_ice_cream_cone/3.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/ube_ice_cream_cone/3.gif" alt="宇部冰淇淋甜筒" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-     
-            </td>
-            <td align="center">
-                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/a_bowl_of_vegetables/2.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/a_bowl_of_vegetables/2.gif" alt="一碗蔬菜" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
-       
-            </td>
-        </tr>
+           
         <tr>
             <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一只企鹅</font></font></td>
             <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">宇部冰淇淋甜筒</font></font></td>
