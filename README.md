@@ -5,56 +5,156 @@
 <li><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">请参阅</font></font><a href="#samples"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">示例</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">，了解我们的文本条件模型可以生成的示例。</font></font></li>
 </ul>
 <div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">样品</font></font></h1><a id="user-content-samples" class="anchor" aria-label="永久链接：样本" href="#samples"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
-<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以下是我们的文本条件模型中的一些突出显示的示例。</font><font style="vertical-align: inherit;">有关选定提示的随机样本，请参阅</font></font><a href="/openai/shap-e/blob/main/samples.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">samples.md</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
+<p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">以下是我们的文本条件模型中的一些突出显示的示例。有关选定提示的随机样本，请参阅</font></font><a href="/openai/shap-e/blob/main/samples.md"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">samples.md</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">。</font></font></p>
 <table>
     <tbody>
         <tr>
             <td align="center">
-                
+                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/a_chair_that_looks_like_an_avocado/2.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/a_chair_that_looks_like_an_avocado/2.gif" alt="一把看起来像鳄梨的椅子" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+    </animated-image>
             </td>
             <td align="center">
-               
+                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/an_airplane_that_looks_like_a_banana/3.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/an_airplane_that_looks_like_a_banana/3.gif" alt="一架看起来像香蕉的飞机" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+   </animated-image>
             </td>
             <td align="center">
-               
+                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/a_spaceship/0.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/a_spaceship/0.gif" alt="一艘宇宙飞船" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      </animated-image>
             </td>
         </tr>
         <tr>
-            <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一把看起来</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">像鳄梨的椅子</font></font></td>
-            <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一架看起来</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">像香蕉的飞机</font></font></td>
+            <td align="center"><font style="vertical-align: inherit;"></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一把看起来像鳄梨的</font><font style="vertical-align: inherit;">椅子</font></font></td>
+            <td align="center"><font style="vertical-align: inherit;"></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一架看起来像香蕉的</font><font style="vertical-align: inherit;">飞机</font></font></td>
             <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一艘宇宙飞船</font></font></td>
         </tr>
         <tr>
             <td align="center">
-               
-            </td>
-            <td align="center">
-                
-            </td>
-            <td align="center">
-                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/a_green_boot/3.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/a_green_boot/3.gif" alt="绿色靴子" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      
+                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/a_birthday_cupcake/3.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/a_birthday_cupcake/3.gif" alt="生日纸杯蛋糕" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+     
           
-        </animated-image>
+       </animated-image>
+            </td>
+            <td align="center">
+                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="https://github.com/openai/shap-e/blob/main/samples/a_chair_that_looks_like_a_tree/2.gif" data-target="animated-image.originalLink"><img src="https://github.com/openai/shap-e/raw/main/samples/a_chair_that_looks_like_a_tree/2.gif" alt="一把看起来像树的椅子" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/openai/shap-e/blob/main/samples/a_chair_that_looks_like_a_tree/2.gif" target="_blank">
+          
+      </animated-image>
+            </td>
+            <td align="center">
+                <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="/openai/shap-e/blob/main/samples/a_green_boot/3.gif" data-target="animated-image.originalLink"><img src="/openai/shap-e/raw/main/samples/a_green_boot/3.gif" alt="绿色靴子" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/openai/shap-e/blob/main/samples/a_green_boot/3.gif" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="绿色靴子" class="AnimatedImagePlayer-animatedImage" src="https://github.com/openai/shap-e/raw/main/samples/a_green_boot/3.gif" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="128" height="128"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="玩绿色启动" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="玩绿色启动">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="在新窗口中打开绿色启动" class="AnimatedImagePlayer-button" href="https://github.com/openai/shap-e/blob/main/samples/a_green_boot/3.gif" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image>
             </td>
         </tr>
         <tr>
             <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">生日纸杯蛋糕</font></font></td>
-            <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一把看起来</font></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">像树的椅子</font></font></td>
+            <td align="center"><font style="vertical-align: inherit;"></font><br><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">一把看起来像树的</font><font style="vertical-align: inherit;">椅子</font></font></td>
             <td align="center"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">绿色靴子</font></font></td>
         </tr>
         <tr>
             <td align="center">
                 <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="/openai/shap-e/blob/main/samples/a_penguin/1.gif" data-target="animated-image.originalLink"><img src="/openai/shap-e/raw/main/samples/a_penguin/1.gif" alt="一只企鹅" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-     </animated-image>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/openai/shap-e/blob/main/samples/a_penguin/1.gif" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="一只企鹅" class="AnimatedImagePlayer-animatedImage" src="https://github.com/openai/shap-e/raw/main/samples/a_penguin/1.gif" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="128" height="128"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="玩企鹅" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="玩企鹅">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="在新窗口中打开企鹅" class="AnimatedImagePlayer-button" href="https://github.com/openai/shap-e/blob/main/samples/a_penguin/1.gif" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image>
             </td>
             <td align="center">
                 <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="/openai/shap-e/blob/main/samples/ube_ice_cream_cone/3.gif" data-target="animated-image.originalLink"><img src="/openai/shap-e/raw/main/samples/ube_ice_cream_cone/3.gif" alt="宇部冰淇淋甜筒" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-      </animated-image>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/openai/shap-e/blob/main/samples/ube_ice_cream_cone/3.gif" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="宇部冰淇淋甜筒" class="AnimatedImagePlayer-animatedImage" src="https://github.com/openai/shap-e/raw/main/samples/ube_ice_cream_cone/3.gif" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="128" height="128"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="玩宇部蛋卷冰淇淋" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="玩宇部蛋卷冰淇淋">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="在新窗口中打开宇部蛋卷冰淇淋" class="AnimatedImagePlayer-button" href="https://github.com/openai/shap-e/blob/main/samples/ube_ice_cream_cone/3.gif" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image>
             </td>
             <td align="center">
                 <animated-image data-catalyst=""><a target="_blank" rel="noopener noreferrer" href="/openai/shap-e/blob/main/samples/a_bowl_of_vegetables/2.gif" data-target="animated-image.originalLink"><img src="/openai/shap-e/raw/main/samples/a_bowl_of_vegetables/2.gif" alt="一碗蔬菜" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
-     </animated-image>
+      <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
+        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://github.com/openai/shap-e/blob/main/samples/a_bowl_of_vegetables/2.gif" target="_blank">
+          
+        <span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="一碗蔬菜" class="AnimatedImagePlayer-animatedImage" src="https://github.com/openai/shap-e/raw/main/samples/a_bowl_of_vegetables/2.gif" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="128" height="128"></canvas></span></a>
+        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play A bowl of vegetables" hidden=""></button>
+        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls" hidden="">
+          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play A bowl of vegetables">
+            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
+            </path></svg>
+            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
+              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
+              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
+            </svg>
+          </button>
+          <a data-target="animated-image.openButton" aria-label="在新窗口中打开" class="AnimatedImagePlayer-button" href="https://github.com/openai/shap-e/blob/main/samples/a_bowl_of_vegetables/2.gif" target="_blank">
+            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
+            </svg>
+          </a>
+        </span>
+      </span></animated-image>
             </td>
         </tr>
         <tr>
@@ -65,8 +165,8 @@
     </tbody>
 </table><div class="markdown-heading" dir="auto"><h1 tabindex="-1" class="heading-element" dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">用法</font></font></h1><a id="user-content-usage" class="anchor" aria-label="永久链接：用法" href="#usage"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div><p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">安装与</font></font><code>pip install -e .</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">.</font></font></p><p dir="auto"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">要开始使用示例，请参阅以下笔记本：</font></font></p><ul dir="auto">
 <li><a href="/openai/shap-e/blob/main/shap_e/examples/sample_text_to_3d.ipynb"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sample_text_to_3d.ipynb</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 根据文本提示对 3D 模型进行采样。</font></font></li>
-<li><a href="/openai/shap-e/blob/main/shap_e/examples/sample_image_to_3d.ipynb"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sample_image_to_3d.ipynb</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 以合成视图图像为条件对 3D 模型进行采样。</font><font style="vertical-align: inherit;">为了获得最佳结果，您应该从输入图像中删除背景。</font></font></li>
-<li><a href="/openai/shap-e/blob/main/shap_e/examples/encode_model.ipynb"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">encode_model.ipynb</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 加载 3D 模型或修剪网格，创建一批多视图渲染和点云，将它们编码为潜在的，然后将其渲染回来。</font><font style="vertical-align: inherit;">为此，请安装 Blender 3.3.1 或更高版本，并将环境变量设置</font></font><code>BLENDER_PATH</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为 Blender 可执行文件的路径。</font></font></li>
+<li><a href="/openai/shap-e/blob/main/shap_e/examples/sample_image_to_3d.ipynb"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Sample_image_to_3d.ipynb</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 以合成视图图像为条件对 3D 模型进行采样。为了获得最佳结果，您应该从输入图像中删除背景。</font></font></li>
+<li><a href="/openai/shap-e/blob/main/shap_e/examples/encode_model.ipynb"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">encode_model.ipynb</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> - 加载 3D 模型或修剪网格，创建一批多视图渲染和点云，将它们编码为潜在的，然后将其渲染回来。为此，请安装 Blender 版本 3.3.1 或更高版本，并将环境变量设置</font></font><code>BLENDER_PATH</code><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">为 Blender 可执行文件的路径。</font></font></li>
 </ul><table>
 
 
